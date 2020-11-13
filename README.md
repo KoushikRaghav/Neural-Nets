@@ -1,1 +1,1 @@
-My Coursera learnings on Neural Networks
+My Coursera learnings on Deep Learning
